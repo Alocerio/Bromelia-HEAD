@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+body{
+    color: #ffffff;
+    font-family: 'Noto Serif', serif;
+    }
+
+.logo{
+    font-weight: bold;
+    font-size: x-large;
+    
+}
+
+
+
+#hero{
+    background-image: url(/IMG/mockup-wall-with-plants-shelf.jpg);
+    background-size: cover;
+    text-align: center;
+    width: auto;
+}
+
+
+h1{
+    padding-top: 120px;
+    font-weight: bold;
+    font-size: 10vw;
+    margin-top: 12px;
+}
+p{
+    padding: 1vw;
+    font-size: 2.5vw;
+    font-weight: 600;
+}
+button{
+    width: 120px;
+    height: 30px;
+    background-color: #ffffff;
+    box-shadow: black;
+    border-radius: 4px;
+    margin: 90px;
+}
+button:hover{
+    background-color: yellowgreen;
+    color: #ffffff;
+
+}
